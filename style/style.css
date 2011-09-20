@@ -146,7 +146,7 @@ body {
 /* ---- base styles */
 
 blockquote {
-  font-family: "IM Fell English",Georgia,serif;
+  font-family: Georgia,serif;
   font-size: 18px;
   color: #555;
   margin: 24px 15% 24px 15%;
@@ -245,19 +245,19 @@ ul ul ul { list-style-type: circle; }
 
 .post #date {
   color: #777;
-  font-family: 'IM Fell English',Georgia,serif;
+  font-family: Georgia,serif;
   font-size: 110%;
   margin: -12px 0 24px 0;
 }
 .post #tags {
   color: #777;
-  font-family: 'IM Fell English',Georgia,serif;
+  font-family: Georgia,serif;
   font-size: 110%;
   margin: 24px 0;
 }
 
 #prevnext {
-  font-family: 'IM Fell English',Georgia,serif;
+  font-family: Georgia,serif;
   font-size: 48px !important;
   color: #777;
   position: absolute;
@@ -405,7 +405,7 @@ table.posts .date {
   white-space: nowrap;
   text-align: right;
   color: #777;
-  font-family: 'IM Fell English',Georgia,serif;
+  font-family: Georgia,serif;
 }
 table.posts td {
   line-height: 24px;
