@@ -1,7 +1,3 @@
-/* Trent Mick's blog's CSS. Based heavily (at least initially) on
- * <http://html5boilerplate.com/> and on <http://lessframework.com/>.
- */
-
 /* ---- reset
  * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
  * v1.4 2009-07-27 | Authors: Eric Meyer & Richard Clark
@@ -68,8 +64,8 @@ body {
   font-size: 16px;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'IM Fell English',Georgia,serif;
   font-weight: bold;
+  font-family: helvetica, arial, freesans, clean, sans-serif;
   /* http://www.aestheticallyloyal.com/public/optimize-legibility/ */
   text-rendering: optimizeLegibility;
 }
