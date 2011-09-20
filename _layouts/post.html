@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<div class="post">
+
+<div id="prevnext">
+  {% if page.previous %}
+  <a href="{{page.previous.url}}" title="Previous: {{page.previous.title}}">&laquo;</a>
+  {% else %}
+  &laquo;
+  {% endif %}
+  {% if page.next %}
+  <a href="{{page.next.url}}" title="Next: {{page.next.title}}">&raquo;</a>
+  {% else %}
+  &raquo;
+  {% endif %}
+</div>
+
+<h1 id="title">
+{{ page.title }}
+</h1>
+
+<div id="date">
+{{ page.date|date:"%A, %d %B %Y" }}
+</div>
+
+<div id="post">
+{{ content }}
+</div>
+
+{% if page.categories.size > 0 %}
+<div id="tags">
+<p>Tagged:
+{% for tag in page.categories %}
+{{ tag }}{% unless forloop.last %},{% endunless %}
+{% endfor %}</p>
+</div>
+{% endif %}
+
+<hr class="strong" />
+<div id="related">
+  <a class='promotejs' href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array' title='JavaScript Array .isArray'><img src='http://static.jsconf.us/promotejsv.gif' height='280' width='160' alt='JavaScript Array .isArray'/></a>
+  <h2>Related <span class="subtitle">(automatically generated)</span></h2>
+  <table id="posts" class="posts">
+  <tbody>
+    {% for post in site.related_posts limit:3 %}
+      <tr><td class="date first">{{ post.date | date_to_string }}</td><td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
+    {% endfor %}
+  </tbody>
+  </table>
+</div>
+
+<!-- leave out till I know how this works 
+<hr class="strong"/>
+<div id="comments">
+  <h2>Comments</h2>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    // http://docs.disqus.com/help/2/
+    var disqus_shortname = 'trentm';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+-->
+
+</div>
