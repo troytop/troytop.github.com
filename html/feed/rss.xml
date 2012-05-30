@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Grogans Site</title>
+    <link>http://neil.grogan.ie/</link>
+    <atom:link href="http://neil.grogan.ie/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Blog Posts by Neil Grogan</description>
+    <language>en-us</language>
+    <pubDate>Tue, 29 May 2012 23:44:45 PDT</pubDate>
+    <lastBuildDate>Tue, 29 May 2012 23:44:45 PDT</lastBuildDate>
+
+    
+    <item>
+      <title>No, really, this time I'll keep writing</title>
+      <link>http://neil.grogan.ie/2011/09/27/no-really-this-time/</link>
+      <pubDate>Tue, 27 Sep 2011 05:43:47 PDT</pubDate>
+      <author>Neil Grogan</author>
+      <guid>http://neil.grogan.ie/2011/09/27/no-really-this-time</guid>
+      <description>&lt;p&gt;More will come. I’m in the process of learning Jekyll and hacking together a usable site design and figuring out commenting with Disqus before I start posting in earnest here on Github.&lt;/p&gt;
+
+&lt;p&gt;… or elsewhere. Actually, the whole motivation for using this system is it’s portability. Perhaps the first &lt;em&gt;real&lt;/em&gt; post will be about data ownership. Till then, you can peruse my posts on the &lt;a href=&quot;http://activestate.com/blog/authors/troyt&quot;&gt;ActiveState blog&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+    </item>
+    
+
+  </channel> 
+</rss>

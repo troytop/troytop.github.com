@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>troytop.net</title>
+  <link href="http://troytop.net/"/>
+  <link type="application/atom+xml" rel="self" href="http://troytop.net/atom.xml"/>
+  <updated>2012-05-29T23:44:45-07:00</updated>
+  <id>http://troytop.net/</id>
+  <author>
+    <name>Troy topnik</name>
+    <email>troytopnik+atomfeed@gmail.com</email>
+  </author>
+
+  
+  <entry>
+    <id>http://troytop.net/2011/09/27/no-really-this-time</id>
+    <link type="text/html" rel="alternate" href="http://troytop.net/2011/09/27/no-really-this-time/"/>
+    <title>No, really, this time I'll keep writing</title>
+    <updated>2011-09-27T05:43:47-07:00</updated>
+    <author>
+      <name>Troy Topnik</name>
+      <uri>http://troytop.net/</uri>
+    </author>
+    <content type="html">&lt;p&gt;More will come. I’m in the process of learning Jekyll and hacking together a usable site design and figuring out commenting with Disqus before I start posting in earnest here on Github.&lt;/p&gt;
+
+&lt;p&gt;… or elsewhere. Actually, the whole motivation for using this system is it’s portability. Perhaps the first &lt;em&gt;real&lt;/em&gt; post will be about data ownership. Till then, you can peruse my posts on the &lt;a href=&quot;http://activestate.com/blog/authors/troyt&quot;&gt;ActiveState blog&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+  </entry>
+  
+ 
+</feed>
