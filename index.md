@@ -4,7 +4,7 @@ title: Welcome
 posts: 5
 ---
 
-<img src="/images/tt-bw-headshot.jpg" alt="Troy Topnik" style="float:left; padding:10px; width:100px" />
+<img src="/images/tt-2007-sm.jpg" alt="Troy Topnik" style="float:right; padding:10px; width:100px" />
 I am a writer and fiddler with technology and software. I work as a technical copywriter, sales engineer, and undefinable entity for ActiveState.
 This is my site, and this is <a href="/archive.html" title="troytop's blog">my blog</a>. 
 
