@@ -2,6 +2,7 @@
 layout: post
 title: Making Github Pages Too Portable
 published: true
+tags: identity portability jekyll stackato
 ---
 
 So, after a significant delay, I'm back on the Jekyll/Github Pages wagon. I've successfully [stolen some style](https://github.com/dueyfinster/dueyfinster.github.com/), set up a CNAME, set up Disqus, and put my mug on the front page. Now that I've got this far, I have to ask myself: Why did I think blogging on Github Pages would be a good idea?
