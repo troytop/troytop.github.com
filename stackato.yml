@@ -3,3 +3,7 @@ mem: 128M
 framework: buildpack
 env:
   BUILDPACK_URL: git://github.com/troytop/stackato-buildpack-jekyll.git 
+
+url:
+  - blog.troytop.net
+  - troytop.net
