@@ -9,3 +9,5 @@ Another "meta" post I'm afraid. That is, I'm going to be blogging for the purpos
 Fun stuff. For reference, this is the part I'm actually working on now:
 
  http://stackoverflow.com/questions/5784329/how-can-i-make-jenkins-ci-with-git-trigger-on-pushes-to-master
+
+Running into a few problems though.
