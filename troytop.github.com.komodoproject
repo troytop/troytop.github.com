@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="b6a37e18-265c-5748-9ef6-1c22a2a5528e" kpf_version="5" name="troytop.github.com.komodoproject">
+<preference-set idref="b6a37e18-265c-5748-9ef6-1c22a2a5528e" id="project" preftype="project">
+  <string relative="path" id="import_dirname"></string>
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;_svn;.git;.hg;.bzr;*%25*;tmp*.html;.DS_Store;*.komodoproject;.komodotools;__pycache__</string>
+  <string id="import_include_matches"></string>
+  <string id="rubyDefaultInterpreter">/home/troyt/.rbenv/shims/ruby</string>
+  <string id="rubyExtraPaths"></string>
+  <boolean id="ruby_debuggerlogenabled">0</boolean>
+  <string id="ruby_debuggerlogpath"></string>
+</preference-set>
 </project>
