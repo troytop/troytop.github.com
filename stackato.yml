@@ -7,4 +7,3 @@ env:
 url:
   - ${name}.${target-base}
   - blog.troytop.net
-  - troytop.net
