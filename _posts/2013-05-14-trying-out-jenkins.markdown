@@ -11,3 +11,5 @@ I'm basically just making little changes to this particular post, then committin
 We'll consider the "production" URL for this blog to be 'troytop.net' (without the 'blog' subdomain) which is set in the Stackato Management Console or with the 'stackato' client. You can likewise add numerous releases into that pool, but it's done manually. 
 
 If you see this line of text, you're looking at build #19 or later.
+
+If you see this line of text, you're looking at build #20 or later.
