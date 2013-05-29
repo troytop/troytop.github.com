@@ -2,6 +2,7 @@
 layout: post
 title: Trying out Jenkins
 published: true
+categories: [stackato, jenkins]
 ---
 
 Another "meta" post I'm afraid. That is, I'm blogging for the purpose of trying out something new with stackato. In this case, continuously deploying it to Stackato using Jenkins. Let's see how it goes. :)
@@ -19,3 +20,5 @@ This line is for build #21, but I'll also be making a possibly breaking change i
 Note: Jenkins regarded build #21 as a succes, but the application actually fails on Stackato because not enough memory has been allocated to successfully run Jekyll. In a real world continuous deployment setup, you would set up tests for this.
 
 Fixing the `mem:` setting for build #22.
+
+Build #23 adds categories, should be no breaking changes.
