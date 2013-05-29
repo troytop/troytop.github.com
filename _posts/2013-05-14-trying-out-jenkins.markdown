@@ -3,6 +3,7 @@ layout: post
 title: Trying out Jenkins
 published: true
 categories: [stackato, jenkins]
+tags: [continuous integration, stackato]
 ---
 
 Another "meta" post I'm afraid. That is, I'm blogging for the purpose of trying out something new with stackato. In this case, continuously deploying it to Stackato using Jenkins. Let's see how it goes. :)
