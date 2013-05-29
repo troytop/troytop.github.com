@@ -6,7 +6,5 @@ env:
 
 url:
   - ${name}.${target-base}
-  - blog.troytop.net
+  - troytest.troytop.net
 
-buildbreaker:
-  - "Should trigger a stackato push error"
