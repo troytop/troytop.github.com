@@ -15,3 +15,7 @@ If you see this line of text, you're looking at build #19 or later.
 If you see this line of text, you're looking at build #20 or later.
 
 This line is for build #21, but I'll also be making a possibly breaking change in the deployment config (intentionally), so it may not show up till build #22.
+
+Note: Jenkins regarded build #21 as a succes, but the application actually fails on Stackato because not enough memory has been allocated to successfully run Jekyll. In a real world continuous deployment setup, you would set up tests for this.
+
+Fixing the `mem:` setting for build #22.
