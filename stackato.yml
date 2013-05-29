@@ -6,5 +6,6 @@ env:
 
 url:
   - ${name}.${target-base}
+  - troytest.${target-base}
   - troytest.troytop.net
 
