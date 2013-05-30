@@ -4,7 +4,3 @@ framework: buildpack
 env:
   BUILDPACK_URL: git://github.com/troytop/stackato-buildpack-jekyll.git 
 
-url:
-  - ${name}.${target-base}
-  - troytest.${target-base}
-
