@@ -2,6 +2,7 @@
 layout: post
 title: Soccer Dad, Programmer Dad
 published: false
+tags: sports
 ---
 
 I am not a soccer player. I never played on a league or demonstrated any natural aptitude for the sport as a kid. I have a basic understanding of the game, but some of the finer points of the offside rule still escape me. I doubt I'm currently fit enough to play 90 minutes with an over-40 team.
