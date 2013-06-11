@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soccer Dad, Programmer Dad
-published: false
+published: true
 tags: sports
 ---
 
