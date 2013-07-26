@@ -7,12 +7,12 @@
   "value": [
     "rbenv exec jekyll"
   ], 
-  "cwd": "%p", 
-  "version": "1.0.11", 
+  "parseOutput": 0, 
+  "version": "1.0.12", 
   "env": "", 
   "doNotOpenOutputWindow": 0, 
   "showParsedOutputList": 0, 
   "type": "command", 
-  "parseOutput": 0, 
+  "cwd": "%p", 
   "runIn": "command-output-window"
 }
