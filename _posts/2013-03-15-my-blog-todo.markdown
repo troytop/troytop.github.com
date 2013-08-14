@@ -19,6 +19,7 @@ list for posterity and future development:
   organization.
 * Siri in the Cloud: An AI agent for managing my online
   assets/data/presence.
+* Some post about continuous deployment.
   
 Hopefully, putting these ideas up in public without any supporting
 information will bug me, and I'll knock them off one by one. Consider
