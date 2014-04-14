@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/troytop
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.troytop.net
+  * I am troytop (https://keybase.io/troytop) on keybase.
+  * I have a public key with fingerprint 8EDB F2EB D805 5AF6 56C2  02D4 DE2D 99C8 17F9 A7B0
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8edbf2ebd8055af656c202d4de2d99c817f9a7b0",
+            "host": "keybase.io",
+            "key_id": "DE2D99C817F9A7B0",
+            "uid": "50438727bde88d671eac2e20c158aa00",
+            "username": "troytop"
+        },
+        "service": {
+            "hostname": "blog.troytop.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397509765,
+    "expire_in": 157680000,
+    "prev": "b07ece1af598da655cec7c40a8691cc39aba2ec61eef45fa7806c1ed8c38fc47",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owE1kV1IFFEUx3fVMpXQohIqKG4WZqvOzO58LeJHbkmiGWyBCrnduXNnHdx2ptlx
+dRPJJBMhwkoqi5WSQMgX9aEHtagEUxbEhIyKsrAsQ8qHtbIgmxG7L4d7zu//P+dw
+2jfGWmKs7zI7x1KXe/qskcdLgsVdcrSlAQiKGALOBlCDV4Mk+71YUzXZrwMn4LAo
+SBQWRI6gaSgxNIMoghIdIqZEnkccyUo8ZAUC2EC1EjAVho0AAzhLVoyc8fHIopF1
+HaJcPF9o8If5AvagydeuFmjCYedYihVEzHEiw5IYIgpTBCJpDkJiFQxgzQ9PY4PW
+NSWkKypotAEjGZQRNkc2O68Bgk/xZq1RWX6sG3JVU3QFKT6jWq3rqtMU6yHVpOuw
+4Fnz8QiyXzRWNwRBrAVkxQ+cpEEiXTaNSTvP0gTPMrQN4HpV1rBHNgmaZTjCeGYb
+HDQHIFiMMAklmudEyNA0wohFDgJyDE8iZOehACmMGBJjyUFLkOUIBpFY5JCdk5CD
+BeZmZ/wKcFKGqQ69hmdA9vqhXqth0Nhm3RlnscZY1q+LMa9nSUxI+X9TUBr/d99k
+8gZ0btzdtXkifiB5hDwyOnXtTWvdSHrY9XTHXiqSkF42DYffVyxE40rHU/OyTxTz
+6u9oT6ggt6mwePB5BqqJ1r19gcXFbd8LLmx9nelu/kb8tEZeWmH2sQdjP2a6q8vS
+nnz1bucWhaKh2Pbem5bRlUuDQ+HJ3tudrZHKqmlntGjB1x+atgCpKPzFVn4yMbi8
+x5fUfetK24p7Udy91DfwMIe+ypR35NiqWtJ0e1dz7fU/JbN3721a33824eLYfEXG
+bNNU/fH+uVcTuCPxozg801BPuy7fqRT2P0tKsd34lF95qnfi1/1sx6O5A/MxW8Lq
+h5m8z+Hc/KTorvP/AA==
+=HIEY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/troytop
+
+==================================================================
+
