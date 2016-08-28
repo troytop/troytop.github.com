@@ -5,9 +5,9 @@ posts: 5
 ---
 
 <img src="/images/tt-2007-sm.jpg" alt="Troy Topnik" style="float:right; padding:10px; width:100px" />
-I am a writer and fiddler with technology and software. I work as a technical copywriter, sales engineer, and undefinable entity for ActiveState.
+I am a software product manager, technical writer, and fiddler with technology and software. I worked for many years for ActiveState and now work for HPE.
 
-Apologies for the lack of... well, everything. I've copied this Jekyll style from <a target="_new" href="https://github.com/dueyfinster/dueyfinster.github.com/">Neil Grogan's repo</a> and hopefully purged all references to his stuff. The site is grossly incomplete, but under actual construction now. 
+Apologies for the lack of... well, everything. The site is grossly incomplete, but under actual construction soon. 
 
 In the meantime, there are lots of posts by me on the [ActiveState
 Blog](http://www.activestate.com/blog/authors/troyt). 

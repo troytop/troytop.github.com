@@ -100,10 +100,6 @@ blockquote {
 blockquote cite {
   font-weight: normal;
 }
-
-div .footnotes{
-border-top: 3px solid #eee8d5;
-}
 strong {
   font-weight: bold;
 }
@@ -361,8 +357,8 @@ pre {
 }
 .unit-article img {
   display: block;
-  margin-right: auto;
   margin-left: auto;
+  margin-right: auto;
 }
 .unit-article img.left {
   margin-right: 16px;
