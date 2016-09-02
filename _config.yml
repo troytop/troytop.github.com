@@ -6,7 +6,7 @@ encoding: ascii
 asciidoc: asciidoctor
 asciidoc_ext: asciidoc,adoc,ad
 exclude: [".rvmrc", ".rbenv-version", "README.md", "newpost.rb", "template.markdown", ".gitignore", "Rakefile", "changelog.md"]
-highlighter: true
+highlighter: rouge 
 destination: ./html
 safe: true
 
