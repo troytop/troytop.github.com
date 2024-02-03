@@ -1,7 +1,0 @@
-name: troytop
-mem: 64M
-buildpack: https://github.com/troytop/stackato-buildpack-jekyll.git 
-urls:
-  - blog.troytop.net
-  - troytop.stacka.to
-  - www.troytop.net
