@@ -1,78 +1,44 @@
 # This is the default format. 
-
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 
 permalink: /:year/:month/:day/:title/
-
 markdown: kramdown 
-
 encoding: ascii 
-
 asciidoc: asciidoctor
-
 asciidoc_ext: asciidoc,adoc,ad
-
 exclude: [".rvmrc", ".rbenv-version", "README.md", "newpost.rb", "template.markdown", ".gitignore", "Rakefile", "changelog.md"]
-
 highlighter: rouge 
-
 destination: ./html
-
 safe: true
 
-
-
 # Themes are encouraged to use these universal variables 
-
 # so be sure to set them if your theme uses them.
-
 #
 
 title : troytop.net 
-
 tagline: Brevity is the soul of technical communication. I've said too much. 
-
 author :
-
   name : Troy Topnik 
-
   email : troytopnik@gmail.com 
-
   github : troytop 
-
-  twitter : troytop 
-
-  
+  mastodon: @troytop@mastodon.top 
 
 # The production_url is only used when full-domain names are needed
-
 # such as sitemap.txt 
-
 # Most places will/should use BASE_PATH to make the urls
-
 #
-
 # If you have set a CNAME (pages.github.com) set your custom domain here.
-
 # Else if you are pushing to username.github.com, replace with your username.
-
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
-
 #
 
 production_url : http://troytop.net
 
 
-
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
-
 #
-
 JB :
-
-  version : 0.2.13
-
-
+  version : 0.3.0
 
   # All links will be namespaced by BASE_PATH if defined.
 
@@ -238,7 +204,6 @@ JB :
 
   # where [HELPER] is the name of the helper you are overriding.
 
-  
-
 
 theme: jekyll-theme-minimal
+
