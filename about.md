@@ -4,7 +4,5 @@ title: About me
 group: about
 ---
 
-Nothing to say about myself other than that I work for [HPE][]. Will fill this out soon, in the meantime, here's my [resume][].
+I work as a Technical Product Manager for [Strata Identity](https://strata.io/). Here's an old [resume](./resume.html)
 
-[ActiveState]: http://hpe.com
-[resume]: /resume.html
