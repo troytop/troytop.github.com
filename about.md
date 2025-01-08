@@ -4,5 +4,5 @@ title: About me
 group: about
 ---
 
-I work as a Technical Product Manager for [Strata Identity](https://strata.io/). Here's an old [resume](./resume.html)
+I work as a Product Manager for [SUSE](https://suse.com/) on [Rancher](https://rancher.io) partnerships.
 
